@@ -1,3 +1,6 @@
+// (c)2014-2015 Aaron Kondziela <aaron@aaronkondziela.com>
+// Distributed under the MIT License
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
