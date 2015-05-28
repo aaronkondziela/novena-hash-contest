@@ -14,5 +14,16 @@ server and start working on hashes.
 
 Of course, I did this far too late in the contest and didn't get anywhere,
 and also realized that my approach was shitty and needed much refineement.
+But I did find some hashes!
 
 Ah well, it was fun!!
+
+Interesting Bits
+----------------
+
+Since it's a pile of hack, I figured I should point out interesting bits.
+
+The code for the quick 128-bit math using POPCNT is handy if you do such
+things, and there is a rapid-ish generator of valid UTF8 characters in there.
+Mostly valid as far as I can tell. May not be *every* code point out there,
+but it was sufficient for the contest. It's pretty brute-force, if I recall.
